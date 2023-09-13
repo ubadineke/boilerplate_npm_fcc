@@ -1,6 +1,7 @@
 {
 	"author": "Ubadineke Prince",
 	"description": "A program for learning backend development",
+	"keywords": [ "descriptive", "related", "words" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
